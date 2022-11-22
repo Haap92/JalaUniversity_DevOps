@@ -1,0 +1,6 @@
+[submodule "Homework 17-11-2022 Scripted Pipeline"]
+	path = Homework 17-11-2022 Scripted Pipeline
+	url = https://github.com/Haap92/JenkinsTest
+[submodule "Homework 18-11-2022 Declarative Pipeline"]
+	path = Homework 18-11-2022 Declarative Pipeline
+	url = https://github.com/Haap92/JenkinsPipeline
