@@ -1,0 +1,13 @@
+---
+- hosts: all
+  become: true
+  tasks:
+    - name: Create a New Directory
+      file: 
+        path: 'home/new_directory'
+        state: directory
+
+    - name: Copy Server index.hmtl
+      copy:
+        src: index.html
+        dest: 'home/new_directory'
