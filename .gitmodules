@@ -4,3 +4,6 @@
 [submodule "Homework 18-11-2022 Declarative Pipeline"]
 	path = Homework 18-11-2022 Declarative Pipeline
 	url = https://github.com/Haap92/JenkinsPipeline
+[submodule "Homework 29-11-2022 Docker compose"]
+	path = Homework 29-11-2022 Docker compose
+	url = https://github.com/Haap92/DockerCompose
