@@ -1,4 +1,6 @@
 **/Homework 22-11-2022 Dockerfile/node_modules
 **/Homework 29-11-2022 Docker compose/node_modules
+**/Homework 01-12-2022 Selenium/node_modules
+
 dist/
 **/**/*.log
